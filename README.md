@@ -1,5 +1,5 @@
 Hi 👋, I'm Tony Alexander Izquierdo
-I love breaking web application security, but not only breaking I also like to build 🔨 web projects.
+I love breaking web application security, but not only breaking I also like to build 🔨 web application projects.
 
 Know more about me
 I built front-end websites
