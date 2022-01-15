@@ -4,7 +4,7 @@ Know more about me
 - I pop reverse shells in machines ⛓️
 - Capture flags in CTFs ⛳
 
-Wanna read my programming|research topic & security writeup? Follow the link provided
+Wanna read my programming | research topic & security writeup? Follow the link provided
 https://x310t0x01.github.io
 
 Wanna discuss 💬 anything related to infosec or hire me => HIT ME UP
