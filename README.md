@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=26&lines=Computer+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=26&lines=Penetration+Tester+)](https://git.io/typing-svg)
 
 ### Languages
 
