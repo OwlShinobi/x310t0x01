@@ -22,11 +22,16 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=TonyaIzquierdo.TonyaIzquierdo)
 Profound knowledge of network architectures, operating systems, application software and cyber security tools.
 
+
+
 **My specialties include..**
 - 👨🏻‍💻 Perform, review and analyze security vulnerability data to identify applicability and false positives. 
 - 🚀 Extensive knownledge of hardware, software, and networking technologies
 - 📫 Proficient in Linux operating system configuration, utilities and programming
 - 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
+ 
+ <img width="490" height="270" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a2f7c9d8-a913-4273-847f-705be41395df/da61r89-db672f80-e64b-4241-8e84-6079b0f8fda0.gif" align=right>
+
 
 **Talking about My Personal Interest:**
 
