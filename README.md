@@ -30,7 +30,7 @@ Profound knowledge of network architectures, operating systems, application soft
 - 📫 Proficient in Linux operating system configuration, utilities and programming
 - 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
  
- <img width="290" height="270" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/dck28j3-9a977163-d3ca-4062-a277-2628a95316d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZGNrMjhqMy05YTk3NzE2My1kM2NhLTQwNjItYTI3Ny0yNjI4YTk1MzE2ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wC7sg-15ECKajyNTknsoa9udYmVke9YwjswxzzcrY9E" align=right>
+ <img width="290" height="270" src="https://i.imgur.com/LexeGuh.gif?noredirect" align=right>
 
 
 **Talking about My Personal Interest:**
