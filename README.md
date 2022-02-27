@@ -30,7 +30,7 @@ Profound knowledge of network architectures, operating systems, application soft
 - 📫 Proficient in Linux operating system configuration, utilities and programming
 - 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
  
- <img width="490" height="270" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a2f7c9d8-a913-4273-847f-705be41395df/da61r89-db672f80-e64b-4241-8e84-6079b0f8fda0.gif" align=right>
+ <img width="290" height="170" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/d9ebz2w-66957331-3bd7-4c21-9da4-f42cb7b178c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZDllYnoydy02Njk1NzMzMS0zYmQ3LTRjMjEtOWRhNC1mNDJjYjdiMTc4YzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fN24kFldhLDg1ad0rzTWYCia2LsbNjnlST2iOVRJ934" align=right>
 
 
 **Talking about My Personal Interest:**
