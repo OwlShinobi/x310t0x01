@@ -30,7 +30,7 @@ Profound knowledge of network architectures, operating systems, application soft
 - 📫 Proficient in Linux operating system configuration, utilities and programming
 - 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
  
- <img width="290" height="270" src="https://i.imgur.com/LexeGuh.gif?noredirect" align=right>
+ <img width="290" height="170" src="https://i.imgur.com/LexeGuh.gif?noredirect" align=right>
 
 
 **Talking about My Personal Interest:**
