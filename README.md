@@ -58,3 +58,7 @@ Javascript  10 Hours      ██████████████████
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=X310t0x01&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/X310t0x01/X310t0x01/blob/output/github-contribution-grid-snake.svg)
