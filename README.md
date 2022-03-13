@@ -6,7 +6,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Technologies 
 
@@ -28,15 +27,6 @@ Profound knowledge of network architectures, operating systems, application soft
 - 📫 Proficient in Linux operating system configuration, utilities and programming
 - 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
  
-
-
-**Talking about My Personal Interest:**
-
-- 👨🏻‍💻 I’m currently programming another project;
-- 🚀 I’m currently learning Algorithem & Data Structures [AlgoExpert.io];
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: tonyaizquierdo@gmail.com;
-</br>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
