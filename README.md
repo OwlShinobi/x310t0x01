@@ -51,5 +51,5 @@ As for the charts 🥧, if you like my A+ stats, then you can make your own by c
 <img src="https://github-readme-stats.vercel.app/api?username=X310t0x01&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tony Izquierdo" width="500">
 
 
-## Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get eaten by the SNAKE 🐍
 ![github contribution grid snake animation](https://raw.githubusercontent.com/X310t0x01/x310t0x01/output/github-contribution-grid-snake.svg)
