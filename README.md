@@ -21,11 +21,10 @@ Profound knowledge of network architectures, operating systems, application soft
 
 
 
-**My specialties include..**
-- 👨🏻‍💻 Perform, review and analyze security vulnerability data to identify applicability and false positives. 
-- 🚀 Extensive knownledge of hardware, software, and networking technologies
+**My specialties include..** 
+- 🚀 Extensive knownledge of web application
 - 📫 Proficient in Linux operating system configuration, utilities and programming
-- 💬 Web site security issues (XSS, CSRF, session fixation, SQL injection, information leakage, application logic etc.) across various platforms.  
+- 💬 Web site security issues (XSS & SQL injection) across various platforms.  
  
 
 📊 **This Week I Spent My Time On:**
